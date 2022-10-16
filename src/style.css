@@ -1,1 +1,16 @@
-/* styles go here */
+.terms {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.terms:last-child {
+  margin-bottom: 0;
+}
+
+.elementBox {
+  margin-bottom: 20px;
+}
+
+.field:focus {
+  background-color: lightgray;
+}
