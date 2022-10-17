@@ -1,13 +1,13 @@
-.terms {
+.label {
   display: block;
   margin-bottom: 10px;
 }
 
-.terms:last-child {
+.label:last-child {
   margin-bottom: 0;
 }
 
-.elementBox {
+.fieldset:not(:last-child) {
   margin-bottom: 20px;
 }
 
